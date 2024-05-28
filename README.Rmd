@@ -1,5 +1,5 @@
 ---
-title: "Title of project"
+title: "Metal ions limit or enhance environmental DNA detectability in marine sediments"
 output: github_document
 ---
 
@@ -7,73 +7,39 @@ output: github_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-__Main author:__    
+__Main author:__  Laury-Ann Dumoulin  
 __Affiliation:__  Fisheries and Oceans Canada (DFO)   
 __Group:__        Laboratory of genomics   
 __Location:__     Maurice Lamontagne Institute  
-__Affiliated publication:__  
-__Contact:__      e-mail:  | tel:
+__Affiliated publication:__  Reference of the paper once published
+__Contact:__      e-mail: lauryanndum@gmail.com
 
 
 - [Objective](#objective)
 - [Summary](#summary)
 - [Status](#status)
-- [Contents](#contents)
-  + [Subsections within contents](#subsections-within-contents)
-- [Methods](#methods)
-  + [Subsections within methods](#subsections-within-methods)
-- [Main Results](#main-results)
-- [Requirements](#requirements)
-- [Caveats](#caveats)
-- [Uncertainty](#uncertainty)
 - [Acknowledgements](#acknowledgements)
-- [References](#references)
+- [Link to the publication once available](#link to the publication)
 
 
 ## Objective
-The main goal/purpose of the project.
+In this study, we tested the effects of increasing concentration of a single metal ion on eDNA detectability in marine sediments for the DNA extraction and PCR detection steps. We used chemically treated sediments to remove inhibitors, limit interactions between factors, and isolate the effect of a single compound in a matrix. We added exogenous DNA and either calcium, iron, copper or manganese ions to test for DNA detectability. Our results showed that divalent metal ions may limit or enhance eDNA detections.
 
 
 ## Summary
-Description of the project, provide some background and context. What are the inputs and outputs?
+Natural matrices affect environmental DNA (eDNA) detections. Effects of matrix‐eluted compounds on the polymerase chain reaction (PCR) step have been the focus of most inhibition studies. Factors affecting eDNA detections in a typical laboratory workflow, i.e., DNA extraction and PCR steps, are mostly unknown. Here, we assessed the effect of four metal ions (Ca2+, Fe3+, Mn2+, Cu2+) present in marine sediments on DNA detectability for both the extraction and the PCR detection steps. A single metal ion and exogenous DNA were added to marine sediments treated chemically to remove inhibitors. Our results showed that natural concentrations of calcium, iron, and manganese ions in surface marine sediments can impede completely DNA detections. Alternatively, copper ions added to the matrix increased DNA detectability by 7.7%. We also observed bimodal inhibitory effects of calcium and iron ions on DNA detectability, suggesting that the extraction and the PCR steps are both affected. Our findings highlight new limitations of eDNA detections. Avenues to optimize eDNA detection protocols applicable to multiple matrices are discussed
 
 
 ## Status
-Is the project finished or being developed? Choose from: "Completed", "Ongoing-improvements", "In-development"
-
-
-## Contents
-Describe the contents of the repository. Are there multiple scripts or directories? What are there purpose and how do they relate to each other?
-### Subsections within contents
-Use subsections to describe the purpose of each script if warranted.
-
-
-## Methods
-What methods were used to achieve the purpose? This should be detailed as possible.
-### Subsections within methods
-Often useful to organise the methods under multiple subheadings.
-
-## Main Results
-*Optional section.* Links to important figures.
-
-## Requirements
-*Optional section.* List the input data requirements or software requirements to successfully execute the code.
-
-
-## Caveats
-Anything other users should be aware of including gaps in the input or output data and warnings about appropriate use.
-
-
-## Uncertainty
-*Optional section.* Is there some uncertainty associated with the output? Assumptions that were made?
+Submitted to a journal.
 
 
 ## Acknowledgements
-*Optional section.* List any contributors and acknowledge relevant people or institutions
+We thank Cloé Lepage, Jade Larivière, Ariane Therien, Audrey Bourret, Grégoire Cortial, and Éric Parent from the Laboratory of Genomics at the Maurice Lamontagne Institute, Marie‐Eve Anglehart and Steeven Ouellet from the Université du Québec à Rimouski for their technical support and advice. We also want to thank David Simard, Coralie Lebreux, and Gabriel Côté for their technical support with sampling and sediments chemical treatments. We are grateful for the help of Ariane Duchesne, Frédérique Thériault, Juliane Rouleau, Lydia Dion, Carolanne Ducasse, and Gabriel Dubé from the Cégep de Rimouski. Part of this study was supported by Québec‐Océan and by the Fonds de recherche du Québec – Nature et technologies (FRQNT) MSc scholarship provided to Laury‐Ann Dumoulin.
 
 
-## References
-*Optional section.*
+## Link to the publication
+The link to the publication will be add here once available.
 
 
 *This github readme was generated by knitting the README.Rmd from
