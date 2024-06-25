@@ -7,6 +7,7 @@ sediments
 **Group:** Laboratory of genomics  
 **Location:** Maurice Lamontagne Institute  
 **Affiliated publication:** Dumoulin, L.-A., Chevrinais, M., St-Louis, R., & Parent, G. J. (2024). Metal ions limit or enhance environmental DNA detectability in marine sediments. Environmental DNA, 6, e568. https://doi.org/10.1002/edn3.568
+
 **Contact:** e-mail: <lauryanndum@gmail.com>
 
 - [Objective](#objective)
